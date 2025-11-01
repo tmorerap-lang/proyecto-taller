@@ -1,0 +1,2 @@
+# proyecto-taller
+Pensamiento Algorítmico 

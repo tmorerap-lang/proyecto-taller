@@ -8,4 +8,4 @@ Innovación 1: Para permitir que el jugador practique y disfrute del juego sin n
 Innovación 1: Porque facilita la experiencia individual y hace el juego más accesible, especialmente para aprender o jugar en solitario.
 
 ## ¿Cómo se llevó a cabo su implementación?
-Innovación 1: Se programó una función que simula los movimientos del bot, eligiendo jugadas válidas de forma automática según el turno y las reglas del juego.
+Innovación 1: Se programó una función que simula los movimientos del bot, eligiendo jugadas válidas de forma automática según el turno y las reglas del juego de tal forma.

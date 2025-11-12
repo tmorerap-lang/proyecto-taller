@@ -27,14 +27,14 @@ Damas Internacionales
 1. Instalar g++:
    sudo apt-get install g++
 2. Compilar con:
-   g++ archivo.cpp -o programa
+   g++ main.cpp juego_ai.cpp tablero.cpp juego.cpp -o main
 3. Ejecutar con:
-   ./programa
+   ./main
 
 ### MacOS
 1. Instalar compilador:
    xcode-select --install
 2. Compilar con:
-   g++ archivo.cpp -o programa
+   g++ main.cpp juego_ai.cpp tablero.cpp juego.cpp -o main
 3. Ejecutar con:
-   ./programa
+   ./main

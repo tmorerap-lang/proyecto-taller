@@ -12,6 +12,8 @@ Damas Internacionales
 - 12 de noviembre de 2025
 
 ## LISTA DE LOS DESARROLLOS INNOVADORES IMPLEMENTADOS (SI LOS HAY)
+- Opción de jugar contra un bot.
+- Conteo de fichas capturadas durante el juego.
 
 ## GUIAS DE COMPILACIÓN
 ### Windows

@@ -1,4 +1,4 @@
-Innovación 1: Jugar contra un bot
+Innovación 1: Jugar contra un bot  
 Innovación 2: Conteo de fichas capturadas durante el juego
 
 ## ¿Para qué se implementó?

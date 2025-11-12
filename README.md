@@ -19,9 +19,9 @@ Damas Internacionales
 ### Windows
 1. Instalar **MinGW** o usar **MSYS2**.  
 2. Compilar con:  
-   g++ archivo.cpp -o programa.exe
+ g++ .\juego.cpp .\juego_ia.cpp .\main.cpp .\tablero.cpp -o game
 3. Ejecutar con:
-   programa.exe
+ .\game
 
 ### Linux
 1. Instalar g++:
